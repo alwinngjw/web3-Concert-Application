@@ -8,12 +8,12 @@
 
 :root {
   --clr-white: #FFFFFF;
-  --clr-black: #000000;
+  --clr-black: #1dfa05;
   --clr-grey: #2b2727;
   --clr-grey-2: #2b2727;
 
-  --clr-dark-blue: #0237AB;
-  --clr-light-blue: #125AC6;
+  --clr-dark-blue: #000307;
+  --clr-light-blue: #ff0099;
 }
 
 body {
@@ -297,7 +297,7 @@ header {
   width: 125px;
   height: 40px;
 
-  background-color: var(--clr-light-blue);
+  background-color: green;
   color: var(--clr-white);
 
   margin-left: auto;
